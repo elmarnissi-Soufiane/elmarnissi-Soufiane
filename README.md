@@ -39,10 +39,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/elmarnissi-Soufiane/elmarnissi-Soufiane/output/snake.svg" alt="Snake animation" />
-
-###
