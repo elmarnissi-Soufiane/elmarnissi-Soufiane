@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">I'm Soufiane ELMARNISSI, a Junior Full-Stack Computer Engineer from Morocco. Let's dive into the intricate world of full-stack development together! 🌐💻</h2>
 
 ###
 
